@@ -17,7 +17,7 @@ I am result-oriented and data-driven strategic business partner, focused on anal
 
 - 🔭 Actively looking for full-time oppurtunities as a Data scientist/Machine Learning engineer/Data Analyst/Business Intelligence Engineer.
 - 🌱 Python, R, SQL, Tableau, AWS and Azure ML Studio but not limited to are few of my preferred tech tools
-- - 🤝 Also open for  collaborations in machine learning, deep learning, analytics and data science.
+- 🤝 Also open for  collaborations in machine learning, deep learning, analytics and data science.
 - 😊 Willing to contribute in opensource projects.
 - 📫 How to reach me: datascientist.asia@gmail.com || [LinkedIn](https://www.linkedin.com/in/aishwarya-bansode-879198160/)
 - 😄 Pronouns: Data Ninja/She/Her
@@ -42,7 +42,7 @@ I am result-oriented and data-driven strategic business partner, focused on anal
 </p>
 
 <details open>
-<summary>🤝 <b>To connect with me<b></summary>
+
 
 <p align = "center">
 
