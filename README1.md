@@ -41,9 +41,6 @@ I am result-oriented and data-driven strategic business partner, focused on anal
 </a>
 </p>
 
-<details open>
-
-
 <p align = "center">
 
 
