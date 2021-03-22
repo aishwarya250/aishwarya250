@@ -1,8 +1,6 @@
 <h1>Hi there, I am Aishwarya Bansode <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 <!--
-**siddsapte12/siddsapte12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -18,7 +16,7 @@ Here are some ideas to get you started:
 I am result-oriented and data-driven strategic business partner, focused on analytics at the intersection of science and technology. I have been spearheaded to improve analytical operations while working with teams as well as individually to help in the organizations' growth and also to identify new models to streamline business processes. I am working with SQL, Python, and Tableau. I have used Python to do data wrangling, data merging, and to find insights from the data. 
 
 - 🔭 Actively looking for full-time oppurtunities as a Data scientist/Machine Learning engineer/Data Analyst/Business Intelligence Engineer.
-- 🌱 Python, R, SQL(MySQL, MS SQL, PostgreSQL, AWS Redshift, Oracle DB), Tableau, Power BI, AWS, and Excel but not limited to are few of my preferred tech tools
+- 🌱 Python, R, SQL, Tableau, AWS and Azure ML Studio but not limited to are few of my preferred tech tools
 - 📫 How to reach me: datascientist.asia@gmail.com || [LinkedIn](https://www.linkedin.com/in/aishwarya-bansode-879198160/)
 - 😄 Pronouns: Data Ninja/She/Her
 - ⚡ Fun fact: I like adventure sports.
