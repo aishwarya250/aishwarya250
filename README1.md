@@ -13,10 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am result-oriented and data-driven strategic business partner, focused on analytics at the intersection of science and technology. I have been spearheaded to improve analytical operations while working with teams as well as individually to help in the organizations' growth and also to identify new models to streamline business processes. I am working with SQL, Python, and Tableau. I have used Python to do data wrangling, data merging, and to find insights from the data. 
+I am result-oriented and data-driven strategic business partner, focused on analytics at the intersection of science and tech. I have been spearheaded to improve analytical operations while working with teams as well as individually to help in the organizations' growth and also to identify new models to streamline business processes. I am working with SQL, Python, and Tableau. I have used Python to do data wrangling, data merging, and to find insights from the data. 
 
 - 🔭 Actively looking for full-time oppurtunities as a Data scientist/Machine Learning engineer/Data Analyst/Business Intelligence Engineer.
 - 🌱 Python, R, SQL, Tableau, AWS and Azure ML Studio but not limited to are few of my preferred tech tools
+- - 🤝 Also open for  collaborations in machine learning, deep learning, analytics and data science.
+- 😊 Willing to contribute in opensource projects.
 - 📫 How to reach me: datascientist.asia@gmail.com || [LinkedIn](https://www.linkedin.com/in/aishwarya-bansode-879198160/)
 - 😄 Pronouns: Data Ninja/She/Her
 - ⚡ Fun fact: I like adventure sports.
