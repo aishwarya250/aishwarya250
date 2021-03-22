@@ -45,10 +45,8 @@ I am result-oriented and data-driven strategic business partner, focused on anal
 <p align = "center">
 
 
-![Siddhant's Github Stats](https://github-readme-stats.vercel.app/api?username=siddsapte12&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siddsapte12&hide=TeX&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=siddsapte12.siddsapte12)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aishwarya250.aishwarya250)
 
 
 
