@@ -1,4 +1,4 @@
-## Hi 👋 I am Shreeram Geedh
+## Hi 👋 I am Aishwarya Bansode
 
 I am a developer who is passionate about stuff like Bussiness Intelligence and Data Science. Few tech that I enjoy working in, Python, Django, C++, and  java. I play football.
 
@@ -8,8 +8,8 @@ I am a developer who is passionate about stuff like Bussiness Intelligence and D
 - 👍 Looking for opportunities to join as an intern/full time candidate in machine learning/deep learning research teams.
 
 <p align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ShreeramGeedh&show_icons=true&theme=highcontrast&&count_private=true&hide=stars" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreeramGeedh&layout=compact&theme=highcontrast&langs_count=6" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=aishwarya250&show_icons=true&theme=highcontrast&&count_private=true&hide=stars" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aishwarya250&layout=compact&theme=highcontrast&langs_count=6" />
 </a>
 </p>
 
