@@ -32,6 +32,19 @@ I am result-oriented and data-driven strategic business partner, focused on anal
 ![](https://img.shields.io/badge/Tools-Tableau-informational?style=flat&logo=Tableau&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Flask-informational?style=flat&logo=Flask&logoColor=white&color=2bbc8a)
 
+
+<p align="left">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=aishwarya250&show_icons=true&theme=highcontrast&&count_private=true&hide=stars" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aishwarya250&layout=compact&theme=highcontrast&langs_count=6" />
+</a>
+</p>
+
+<details open>
+<summary>🤝 <b>To connect with me<b></summary>
+
+<p align = "center">
+
+
 ![Siddhant's Github Stats](https://github-readme-stats.vercel.app/api?username=siddsapte12&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siddsapte12&hide=TeX&layout=compact)
 
