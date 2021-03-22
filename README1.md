@@ -46,7 +46,6 @@ I am result-oriented and data-driven strategic business partner, focused on anal
 
 
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aishwarya250.aishwarya250)
 
 
 
